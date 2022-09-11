@@ -123,6 +123,9 @@ header ul li a {
 .sci li {
   list-style: none;
 }
+.sci li:nth-child(1) {
+  margin-left: 10px;
+}
 .sci li a {
   display: inline-block;
   margin: 5px 0;
